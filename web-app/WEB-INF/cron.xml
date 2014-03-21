@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+	<!-- -->
+	<cron>
+		<url>/server/alive</url>
+		<description>get af 10 minutes</description>
+		<schedule>every 10 minutes</schedule>
+	</cron>
+
+</cronentries>
